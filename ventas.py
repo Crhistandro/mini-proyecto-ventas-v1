@@ -1,7 +1,7 @@
 import datetime
 import json
 import os
-import random103
+import random
 import matplotlib.pyplot as plt
 
 
